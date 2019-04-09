@@ -1,0 +1,20 @@
+body{
+	/*height: 100%;*/
+	/*width: 100%;*/
+	background-color: black;
+
+
+}
+div{
+	/*width: -moz-max-content;    /* Firefox/Gecko */
+  	/*width: -webkit-max-content;*/
+	height: 800px;
+	width: 1420px;
+	/*height: 100%;*/
+	/*width: 100%;*/
+		/*background-color: red;*/
+	/*background-color: white;*/
+	/*clip-path: circle(6px at 20px 20px);*/
+	clip-path: circle(20rem at 68rem 20rem);
+	/*clip-path: circle(6rem at 12rem 8rem);*/
+}
